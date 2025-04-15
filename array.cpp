@@ -95,3 +95,11 @@ int main(){
     cin >> mhs.nama;
     cout << "Masukkan Alamat = ";
     cin >> mhs.alamat;
+
+     //menampilkan data struct
+     cout << endl;
+     cout << "NIM = " << mhs.nim << endl;
+     cout << "Nama = " << mhs.nama << endl;
+     cout << "Alamat = " << mhs.alamat << endl;
+ 
+ }
